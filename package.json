@@ -1,0 +1,32 @@
+{
+  "name": "call-external-api",
+  "version": "1.0.0",
+  "description": "learn how to call an external api using node js.",
+  "main": "app.js",
+  "scripts": {
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "call",
+    "rest",
+    "martand",
+    "singh",
+    "node",
+    "web",
+    "api"
+  ],
+  "author": "Martand Singh (sniffer)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.18.1",
+    "fast-csv": "^4.3.6",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "request": "^2.87.0",
+    "tedious": "^14.5.0"
+  }
+}
