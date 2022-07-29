@@ -1,0 +1,72 @@
+#Adweb Records 28.07.2022
+
+#Adwebone
+onetag.com, xxx, DIRECT
+
+#Rubicon
+
+#Native Ads
+#quantum All formats
+
+#quantum Infeed Adex Records
+
+#Strossle
+
+#improvedigital
+
+#SmartAd
+
+#Nexx360
+revenuemaker.es, 333071, DIRECT
+criteo.com, B-063525, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, 9MBUKT, DIRECT, 35d5010d7789b49d
+rubiconproject.com, 23910, DIRECT, 0bfd66d529a55807
+aps.amazon.com, 5457af87-be98-42b8-9956-db4cb83a5923, DIRECT
+onetag.com, 79a8ecc69f56610, DIRECT
+
+#Index
+
+#Triplelift
+
+#Adform
+
+#Adagio
+
+#Waytogrow
+waytogrow.eu, xxx, DIRECT
+onetag.com, 775f9dcfac64c3b, DIRECT
+onetag.com, 775f9dcfac64c3b-OB, DIRECT
+
+#sharethrough
+
+#pubmatic
+
+#rich audience
+
+#xandr
+
+#google_adweb
+
+#Unblockia
+unblockia.com, 2W5C10RSAG, direct
+pubmatic.com, 159496, reseller, 5d62403b186f2ace
+adform.com, 2823, RESELLER
+criteo.com, B-061293, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, D4JEVS, DIRECT, 35d5010d7789b49d
+smartadserver.com, 4174, DIRECT
+verve.com, 15503, RESELLER, 0c8f5958fc2d6270
+adpone.com, 4bcw5tijif7f52e01992, DIRECT
+onetag.com, 75641ab6564116b, DIRECT
+betweendigital.com, 44492, DIRECT
+opera.com, pub5449961587776, RESELLER, 55a0c5fd61378de3
+indexexchange.com, 197200, RESELLER, 50b1c356f2c5c8fc
+adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
+emxdgt.com, 2047, RESELLER, 1e1d41537f7cad7f
+rhythmone.com, 3880497124, RESELLER, a670c89d4a324e47
+mgid.com, 712608, DIRECT, d4c29acad76ce94f
+rubiconproject.com, 9655, RESELLER, 0bfd66d529a5580
+openx.com, 557329083, RESELLER, 6a698e2ec38604c6
+adtelligent.com, 631813, DIRECT
+bidmatic.io, b-9a405, DIRECT
+
+#End of Adweb Records.

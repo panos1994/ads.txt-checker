@@ -12,4 +12,8 @@ arr.forEach(element => {
         if (err) throw err;
         // if no error, file has been deleted successfully
     });
+    fs.unlink('missing.csv', function (err) {
+        if (err) throw err;
+        // if no error, file has been deleted successfully
+    });
 });
