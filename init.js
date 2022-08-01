@@ -109,7 +109,7 @@ const arr = [
     },
     {
         name: 'efsyn',
-        url: 'https://www.efsyn.gr/ads.txt',
+        url: 'https://adstxt.orangeclickmedia.com/efsyn.gr/ads.txt',
         path: 'ads/efsyn/efsyn_ads.txt',
         target: 'missing/efsyn_missing.txt'
     },
