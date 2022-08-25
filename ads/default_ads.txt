@@ -1,4 +1,4 @@
-#Adweb Records 28.07.2022
+#Adweb Records 25.08.2022
 
 #Adwebone
 onetag.com, xxx, DIRECT
@@ -68,6 +68,8 @@ adform.com, 2780, RESELLER
 
 #Adagio
 adagio.io, 1121, DIRECT
+smartadserver.com, 3554, RESELLER
+smartadserver.com, 4111, RESELLER
 
 #Waytogrow
 waytogrow.eu, xxx, DIRECT

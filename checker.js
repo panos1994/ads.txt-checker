@@ -66,7 +66,7 @@ arr.forEach(element => {
         }
      });
 
-     var diff = 279-cnt;
+     var diff = arrayofDefaults.length-cnt;
      console.log(element.name + ': missing lines = ' + diff);
      var stream = fs.writeFileSync('missing.csv', element.name+','+diff+"\r\n", {encoding:'utf8',flag:'a'}, function (err) {
         if (err) return console.log(err);
