@@ -1,4 +1,4 @@
-#Adweb Records 25.08.2022
+#Adweb Records 01.09.2022
 
 #Adwebone
 onetag.com, xxx, DIRECT
@@ -68,8 +68,16 @@ adform.com, 2780, RESELLER
 
 #Adagio
 adagio.io, 1121, DIRECT
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1790, RESELLER
+indexexchange.com, 194558, RESELLER
 smartadserver.com, 3554, RESELLER
+onetag.com, 6b859b96c564fbe, RESELLER
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
+appnexus.com, 13099, RESELLER
 smartadserver.com, 4111, RESELLER
+#Adagio end
 
 #Waytogrow
 waytogrow.eu, xxx, DIRECT
@@ -220,6 +228,7 @@ onetag.com, 775f9dcfac64c3b-OB, DIRECT
 appnexus.com, 13099, RESELLER
 yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+smartadserver.com, 1175-OB, RESELLER, 060d053dcf45cbf3
 
 #sharethrough
 sharethrough.com, fm2v0eQW, DIRECT, d53b998a7bd4ecd2
