@@ -83,12 +83,12 @@ const arr = [
         path: 'ads/cyclades24/cyclades24_ads.txt',
         target: 'missing/cyclades24_missing.txt'
     },
-    // {
-    //     name: 'doctv',
-    //     url: 'https://www.doctv.gr/ads.txt',
-    //     path: 'ads/doctv/doctv_ads.txt',
-    //     target: 'missing/doctv_missing.txt'
-    // },
+    {
+        name: 'doctv',
+        url: 'https://www.doctv.gr/ads.txt',
+        path: 'ads/doctv/doctv_ads.txt',
+        target: 'missing/doctv_missing.txt'
+    },
     {
         name: 'downtown',
         url: 'https://www.downtown.gr/ads.txt',
@@ -485,12 +485,12 @@ const arr = [
         path: 'ads/pink/pink_ads.txt',
         target: 'missing/pink_missing.txt'
     },
-    // {
-    //     name: 'politikakritis',
-    //     url: 'https://www.politikakritis.gr/ads.txt',
-    //     path: 'ads/politikakritis/politikakritis_ads.txt',
-    //     target: 'missing/politikakritis_missing.txt'
-    // },
+    {
+        name: 'politikakritis',
+        url: 'https://www.politikakritis.gr/ads.txt',
+        path: 'ads/politikakritis/politikakritis_ads.txt',
+        target: 'missing/politikakritis_missing.txt'
+    },
     {
         name: 'politischios',
         url: 'https://www.politischios.gr/ads.txt',
