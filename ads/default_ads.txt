@@ -1,4 +1,4 @@
-#Adweb Records 01.09.2022
+#Adweb Records 02.09.2022
 
 #Adwebone
 onetag.com, xxx, DIRECT
@@ -328,5 +328,8 @@ sovrn.com, 310770, DIRECT, fafdf38b16bf6b2b
 pubmatic.com, 161562, RESELLER, 5d62403b186f2ace
 appnexus.com, 13701, DIRECT, f5ab79cb980f11d1
 bidmatic.io, b-9a405, DIRECT
+
+# ConnectAd Core
+connectad.io, 313, DIRECT, 85ac85a30c93b3e5
 
 #End of Adweb Records.
